@@ -23,7 +23,7 @@ checking out to the dev branch
 adding the changes to the dev branch
 `git add .`
 
-committing thos changes
+committing those changes
 `commit -m "changes made"`
 
 `pushing the changes to github`
